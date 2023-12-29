@@ -1,0 +1,23 @@
+.allproductpage .heading {
+    background-color: lightpink;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.allproductpage .heading p {
+    font-size: 30px;
+    color: navajowhite;
+    font-style: normal;
+
+}
+
+.allproductpage .allproductcontainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}

@@ -1,0 +1,20 @@
+.slider-head {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.slider-head p {
+    font-size: 40px;
+    font-weight: 700;
+    color: #ffbb00;
+
+}
+
+.welcome p {
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    color: lightpink;
+
+}

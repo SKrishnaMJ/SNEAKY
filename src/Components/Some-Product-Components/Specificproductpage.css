@@ -1,0 +1,117 @@
+.myprod-container {
+    display: flex;
+}
+
+.prod-img-cont {
+    width: 2000px;
+    margin-right: 20px;
+}
+
+.prod-img-cont img {
+    width: 100%;
+
+}
+
+.prod-data .prod-head {
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 45px;
+}
+
+.prod-keyspecs {
+    font-size: 25px;
+}
+
+.mrp,
+.saleprice {
+    font-size: 25px;
+    margin: 15px 0px;
+    padding: 0px;
+}
+
+.yousave {
+    color: rgb(81, 81, 81);
+    padding: 0px;
+    margin: 15px 0px;
+
+}
+
+.prod-details-head {
+    padding: 0px;
+    font-size: 35px;
+    margin: 0px;
+    margin-top: 20px;
+
+    color: lightpink;
+    border-bottom: 2px solid #ffbb00;
+    width: 200px;
+}
+
+.prod-details-head2 {
+    padding: 0px;
+    font-size: 35px;
+    margin: 20px;
+
+    color: #ffbb00;
+    border-bottom: 2px solid #ffbb00;
+    width: 200px;
+
+}
+
+.buy-cart {
+    margin-left: 10px;
+}
+
+.warranty-replacement {
+    display: flex;
+    background-color: whitesmoke;
+    padding: 10px;
+    justify-content: space-evenly;
+    width: 300px;
+    border-radius: 10px;
+    align-items: center;
+    box-shadow: 0px 0px 5px 0px grey;
+
+}
+
+.cod,
+.warranty,
+.replacement {
+    display: flex;
+    flex-direction: column;
+    justify-content: safe;
+    align-items: right;
+    color: aqua;
+}
+
+.img-circle {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 60px;
+    background-color: white;
+}
+
+.img-circle img {
+    width: 30px;
+    border-radius: 20px;
+}
+
+.cod,
+.warranty,
+.replacement p {
+    font-size: 13px;
+    font-weight: 600;
+    text-align: center;
+    color: #ffbb00;
+}
+
+.row-cont {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 550px;
+
+}

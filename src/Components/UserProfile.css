@@ -1,0 +1,35 @@
+.userprofile-outercontainer {
+    display: flex;
+    margin-top: 200px;
+    justify-content: center;
+    align-items: center;
+}
+
+.user-profile{
+    background-color: lavender;
+    padding: 10px;
+    border-radius: 10px;
+    width: 500px;
+
+}
+
+.user-profile .heading{
+    font-size: 30px;
+    color: black;
+    font-weight: 700;
+    border-bottom: 3px solid white;
+
+}
+
+.data-row{
+    display: flex;
+    flex-direction: row;
+    color: black;
+}
+
+.data-row span{
+    width: 50%;
+    padding: 10px;
+    border: 2px solid;
+    font-size: 18px;
+}
