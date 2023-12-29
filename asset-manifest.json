@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Sneaky/static/css/main.0beaf62f.css",
+    "main.js": "/Sneaky/static/js/main.7aec9d65.js",
+    "static/js/787.d81f3025.chunk.js": "/Sneaky/static/js/787.d81f3025.chunk.js",
+    "static/media/Sneaker2.png": "/Sneaky/static/media/Sneaker2.d16445bfed79a8a2a338.png",
+    "static/media/Wallpaper.png": "/Sneaky/static/media/Wallpaper.ca6a431844c8cacae9f5.png",
+    "static/media/slide1.webp": "/Sneaky/static/media/slide1.1c4a9eba456340fb7028.webp",
+    "static/media/Sneaker1.png": "/Sneaky/static/media/Sneaker1.8d4c8186638015dcf458.png",
+    "static/media/jordan1.png": "/Sneaky/static/media/jordan1.d631eac994f18ae69198.png",
+    "static/media/Applogo1.png": "/Sneaky/static/media/Applogo1.7f800bb68e8a91017eab.png",
+    "static/media/revicons.eot": "/Sneaky/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Sneaky/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Sneaky/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Sneaky/index.html",
+    "main.0beaf62f.css.map": "/Sneaky/static/css/main.0beaf62f.css.map",
+    "main.7aec9d65.js.map": "/Sneaky/static/js/main.7aec9d65.js.map",
+    "787.d81f3025.chunk.js.map": "/Sneaky/static/js/787.d81f3025.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0beaf62f.css",
+    "static/js/main.7aec9d65.js"
+  ]
+}
